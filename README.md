@@ -65,7 +65,7 @@ zg又长大了，请xdm在老地方吃的饭，还有大闸蟹。
 
 zg在cos小头的比赛中获得第一名。
 
-<img src="./pic/smallhead.jpg" style="zoom:20%;" />
+<img src="./pic/smallhead.jpg" style="zoom:10%;" />
 
 **2024.10.05**：zg在cos大禹的比赛中获得第一名，一天内连续两次把自己的行李箱忘在原地。“看到他们抑制不住的笑脸，我知道，我有麻烦了，但很感谢他们”，指zg在准备坐千岛湖-杭州的高铁时把行李忘在原地。
 
@@ -77,5 +77,5 @@ zg在cos小头的比赛中获得第一名。
 dg在雀圣大比拼中，面对手里7p5p的单吊二择，毅然选择胡自己的第五张根(7p)。打了的5p还点炮了，第二轮摸到5p才发现自己7p能杠。
 
 **2024.10.08**：jx j人算钱时刻，山东xd！
-![3194745e592930ef359e34381e15d1e](https://github.com/user-attachments/assets/bd77b240-4021-4603-a504-5be54ad9d5e4)
+<img src="./pic/2024-10-08-wx.jpg" style="zoom:20%;" />
 
