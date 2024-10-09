@@ -6,6 +6,12 @@ template： **2020.09.26嘟** 当日凌晨，zg自行车在珞雄路地体站门
 
 征稿与征集时间（差不多了让AI处理处理），图图和视频可以后续补上：
 
+前端生成流程：
+1.按照这个模板，把内容放进word_record.txt里面
+2.跑一编python generate.py生成新的前端
+3.最后把新的index.html和photos.html上传就行了
+网址：https://hxpiggroup.github.io/Chronicle-of-Sweet_Group
+
 **2019-时间待考究嘟**：zg给喵酱喷水
 
 **2019-时间待考究嘟**：zg给cb倒麻汁
