@@ -1,0 +1,42 @@
+
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>照片记录</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>所有照片</h1>
+        <div class="nav">
+            <a href="index.html">返回生活记录</a>
+        </div>
+        
+        <div class="year-section">
+            <h2 class="year" onclick="togglePhotos(this)">2024</h2>
+            <div class="entry">
+                
+                <h3>10.04</h3>
+                <p><img src="./pic/smallhead.jpg" style="zoom:10%;" /></p>
+                
+                <h3>10.08</h3>
+                <p><img src="./pic/2024-10-08-wx.jpg" style="zoom:20%;" /></p>
+                
+                <h3>10.08</h3>
+                <p><img src="./pic/2024-10-08-wx.jpg" style="zoom:20%;" /></p>
+                
+            </div>
+        </div>
+        
+    </div>
+
+    <script>
+        function togglePhotos(yearElement) {
+            const photos = yearElement.nextElementSibling;
+            photos.classList.toggle('hidden');
+        }
+    </script>
+</body>
+</html>

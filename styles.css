@@ -1,0 +1,75 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    color: #333;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+    color: #2c3e50;
+}
+
+.year-section {
+    margin-bottom: 20px;
+}
+
+.year {
+    color: #2980b9;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+.entry {
+    margin-bottom: 15px;
+    padding: 10px;
+    border-left: 4px solid #2980b9;
+}
+
+.hidden {
+    display: none;
+}
+
+.photos {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 10px;
+}
+
+.large-thumbnail {
+    width: 200px; /* 大图显示 */
+    height: auto;
+    margin: 5px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    transition: transform 0.2s;
+}
+
+.large-thumbnail:hover {
+    transform: scale(1.1);
+}
+
+.nav {
+    text-align: center;
+    margin-top: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: #2980b9;
+}
+
+a:hover {
+    text-decoration: underline;
+}
