@@ -19,9 +19,6 @@ pattern = r'\*\*(.*?)嘟\*\*\s*：\s*(.*?)(?=\n\n|\Z)'
 
 matches = re.findall(pattern, text, re.DOTALL)
 
-for key, value in matches:
-    result_dict[key.strip()].append(value.strip())
-
 for key in result_dict.keys():
     images = re.findall(r'<img.*?>', '\n'.join(result_dict[key]))
     # Filter non-image content
